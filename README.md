@@ -12,18 +12,26 @@ The application is available for Windows and Mac/Linux.
 Download the source code from the project's GitHub repository. Extract the source code and open a terminal window in the extracted directory. Run the following command to install the dependencies:
 
 ### Windows
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ### Mac/Linux
-`pip3 install -r requirements.txt`
+```
+pip3 install -r requirements.txt
+```
 
 Then, run the following command to start the application:
 
 ### Windows
-`python main.py`
+```
+python main.py
+```
 
 ### Mac/Linux
-`python3 main.py`
+```
+python3 main.py
+```
 
 ### Test data
 If you want to create some test data in the phone book, you can uncomment the line `#print(add_test_data(phone_book_bd))` in the `main.py` file before running it. This will add some sample users with phone numbers and birthdays to the phone book. You can comment it again if you want to start with an empty phone book.
