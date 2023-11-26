@@ -1,6 +1,6 @@
 # Personal Phonebook and Notes Application - Chat Bot
 
-This is a simple phonebook application that allows you to manage your contacts, notes, and search for information.
+This is a simple phonebook and notesbook application that allows you to manage your contacts, notes, and search for information.
 
 ## About
 
